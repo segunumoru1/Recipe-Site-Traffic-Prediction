@@ -1,41 +1,104 @@
-# ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/39d95b82-d63f-4f77-9bb6-8b70178664be)
+# Tasty Bytes Recipe Site Traffic Prediction
 
-### About Tasty Bytes ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ebe71e7c-00b9-4358-9575-072c27ef92ff)
+![Tasty Bytes Logo](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/39d95b82-d63f-4f77-9bb6-8b70178664be)
 
-About Tasty Bytes Tasty Bytes was founded in 2020 amid the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started life as a search engine for recipes, helping people find ways to use up the limited supplies they had at home. Now, over two years on, we are a fully-fledged business. For a monthly subscription, we will put together a full meal plan to ensure you and your family are getting a healthy, balanced diet whatever your budget. Subscribe to our premium plan and we will also deliver the ingredients to your door.
-![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ca84f5e8-87a3-4b9b-a2f0-8f89a88e960a)
+## About Tasty Bytes
 
+Tasty Bytes was founded in 2020 amid the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started as a search engine for recipes, helping people find ways to use up the limited supplies they had at home. Now, over two years on, we are a fully-fledged business. For a monthly subscription, we will put together a full meal plan to ensure you and your family are getting a healthy, balanced diet whatever your budget. Subscribe to our premium plan and we will also deliver the ingredients to your door.
 
+![Tasty Bytes](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ebe71e7c-00b9-4358-9575-072c27ef92ff)
 
+## Project Overview
 
+The aim of this project is to predict which recipes will have high traffic and to determine the likelihood of a recipe achieving "High" traffic with 80% probability using a Logistic Regression model.
 
-https://segunumoru1-recipe-site-traffic-prediction-app-zu4pwy.streamlit.app/
+## Business Focus & Metrics
 
-# Business Focus & Metrics
-**The business goals**
+### Business Goals
+1. Predict which recipes will have high traffic.
+2. Predict the "High" value of traffic of the recipes with 80% probability.
 
-There are 2 business goals:
+### Model Performance
+The Logistic Regression model has achieved high rates of Precision, Recall, and F1 Score, all greater than or equal to 80%, ensuring reliable predictions.
 
-- to predict which recipes will be with high traffic;
+### Business Recommendations
+- **Deploy the Logistic Regression Model**: Implementing this model in production can ensure approximately 84% accuracy in identifying high-traffic recipes.
+- **Personalized Meal Plans**: Use nutritional data to create personalized meal plans based on individual preferences and dietary needs.
+- **Promote Popular Categories**: Emphasize popular recipe categories, especially chicken recipes, and introduce new and innovative options to maintain customer engagement.
+- **Target Marketing Efforts**: Focus on high-traffic recipe categories like Potato, Pork, and Vegetable.
+- **Optimize Serving Size Options**: Align serving sizes with customer preferences, highlighting popular options like 4 servings.
 
-- to predict the "High" value of traffic of the recipes with 80% probability.
+![Recipe Traffic Prediction](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ca84f5e8-87a3-4b9b-a2f0-8f89a88e960a)
 
-The Logistic Regression model has achieved both goals, because it has high rates of Precision, Recall and F1 Score are more or equal 80%.
+## Recommendations for Future Actions
+- **Deploy the Model**: Implement the Logistic Regression Model into production to ensure high traffic predictions, boosting the Product Manager's confidence in generating more traffic.
+- **Enhance Deployment**: Explore the best ways to deploy this model considering performance and cost, ideally on edge devices for convenience and security.
+- **Data Collection**: Gather more data such as preparation time, cost per serving, ingredients, site duration time, incoming links, and recipe combinations.
+- **Feature Engineering**: Increase the number of category values and create more meaningful features from existing variables.
 
+## Methodology
 
-## Business Recommendations
-- To aid the Product Manager in predicting recipe traffic, deploying the Logistic Regression Model in production can ensure approximately 84% accuracy in identifying high-traffic recipes. This will instill confidence in the Product Manager to drive more traffic to the website. Additionally, the Product Manager can consider the following strategies:
-- Personalized Meal Plans: Utilize nutritional data to create personalized meal plans based on individual preferences and dietary needs.
-- Promote Popular Categories: Emphasize and expand promotion of popular recipe categories, particularly chicken recipes, by introducing new and innovative options to maintain customer engagement.
-- To focus marketing efforts, target high-traffic recipe categories like Potato, Pork, and Vegetable.
-Additionally, optimize serving size options by aligning them with customer preferences and highlighting recipes that cater to popular serving sizes, such as 4 servings.
-![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/2d46cb74-613b-4626-b235-2f8095fd1aae)
+1. **Data Collection**: Gathered recipe traffic data including various features like recipe type, ingredients, and user interactions.
+2. **Data Preprocessing**: Cleaned and transformed the data for analysis.
+3. **Feature Selection**: Identified key features that influence recipe traffic.
+4. **Model Training**: Used a Logistic Regression model to predict high-traffic recipes.
+5. **Model Evaluation**: Evaluated the model using metrics such as Precision, Recall, and F1 Score.
+6. **Deployment**: Prepared the model for deployment to make real-time traffic predictions.
 
-# Recommendations for future actions
-To help Product Manager predict the high traffic of the recipes, we can deploy this Logistic Regression Model into production. By implementing this model, about 81% of the prediction will make sure the traffic will be high. This will help Product Manager build their confidence in generating more traffic to the rest of the website.
+## Libraries and Technologies Used
 
-**To implement and improve the model, I will consider the following steps:**
+- **Python**: Programming language used for model development.
+- **Pandas**: Data manipulation and analysis.
+- **NumPy**: Numerical computing.
+- **Scikit-learn**: Machine learning library for model building.
+- **Streamlit**: Framework for creating interactive web applications.
+- **Matplotlib & Seaborn**: Data visualization.
 
-- Looking for best ways to deploy this model in terms of performance and costs. The ideal way is to deploy this machine learning model on edge devices for its convenience and security and test the model in newly hired product analysts.
-- Collecting more data, e.g. time to make, cost per serving, ingredients, site duration time (how long users were at the recipe page), income links (from what sites users came to the recipe page), combinations of recipes (what recipes user visited at the same session with the current recipe).
-- Feature Engineering, e.g increase number of values in category, create more meaningful features from the variables.
+## Skills Applied
+
+- **Data Analysis**: Analyzing recipe traffic data to extract insights.
+- **Machine Learning**: Developing and evaluating the Logistic Regression model.
+- **Data Preprocessing**: Cleaning and transforming raw data.
+- **Feature Engineering**: Creating and selecting meaningful features for the model.
+- **Web Development**: Building an interactive web application using Streamlit.
+- **Model Deployment**: Preparing the model for real-time predictions.
+
+## How to Clone the Repository
+
+To clone the repository and get started with the project, follow these steps:
+
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction.git
+    ```
+
+2. **Navigate to the Project Directory**:
+    ```sh
+    cd Recipe-Site-Traffic-Prediction
+    ```
+
+3. **Install Dependencies**:
+    Ensure you have Python and pip installed. Then, install the required Python packages:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4. **Run the Streamlit App**:
+    ```sh
+    streamlit run app.py
+    ```
+
+5. **Access the Application**:
+    Open your browser and go to `http://localhost:8501` to access the Streamlit application.
+
+## Additional Resources
+
+- **Project Demo**: [Streamlit App](https://segunumoru1-recipe-site-traffic-prediction-app-zu4pwy.streamlit.app/)
+
+## Contact
+
+For any questions or inquiries, please reach out via the project's GitHub Issues page.
+
+---
+
+Thank you for your interest in the Tasty Bytes Recipe Site Traffic Prediction project! We hope this README provides a comprehensive overview and helps you get started with the project.
