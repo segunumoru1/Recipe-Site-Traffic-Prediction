@@ -1,12 +1,11 @@
 # Tasty Bytes Recipe Site Traffic Prediction
 
-![Tasty Bytes Logo](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/39d95b82-d63f-4f77-9bb6-8b70178664be)
+![Tasty Bytes Logo](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/blob/master/tiny-female-chef-cooking-vegan-meal-using-recipe-kitchen-cook-making-dish-from-restaurant-menu-flat-vector-illustration-healthy-food-diet-culinary-nutrition-concept-website-design_74855-22063.avif)
 
 ## About Tasty Bytes
 
 Tasty Bytes was founded in 2020 amid the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started as a search engine for recipes, helping people find ways to use up the limited supplies they had at home. Now, over two years on, we are a fully-fledged business. For a monthly subscription, we will put together a full meal plan to ensure you and your family are getting a healthy, balanced diet whatever your budget. Subscribe to our premium plan and we will also deliver the ingredients to your door.
 
-![Tasty Bytes](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ebe71e7c-00b9-4358-9575-072c27ef92ff)
 
 ## Project Overview
 
