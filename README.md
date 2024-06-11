@@ -27,7 +27,7 @@ The Logistic Regression model has achieved high rates of Precision, Recall, and 
 - **Target Marketing Efforts**: Focus on high-traffic recipe categories like Potato, Pork, and Vegetable.
 - **Optimize Serving Size Options**: Align serving sizes with customer preferences, highlighting popular options like 4 servings.
 
-![Recipe Traffic Prediction](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ca84f5e8-87a3-4b9b-a2f0-8f89a88e960a)
+
 
 ## Recommendations for Future Actions
 - **Deploy the Model**: Implement the Logistic Regression Model into production to ensure high traffic predictions, boosting the Product Manager's confidence in generating more traffic.
