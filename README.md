@@ -1,6 +1,6 @@
-# Recipe Site Traffic![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/39d95b82-d63f-4f77-9bb6-8b70178664be)
+# ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/39d95b82-d63f-4f77-9bb6-8b70178664be)
 
-## About Tasty Bytes ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ebe71e7c-00b9-4358-9575-072c27ef92ff)
+### About Tasty Bytes ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ebe71e7c-00b9-4358-9575-072c27ef92ff)
 
 About Tasty Bytes Tasty Bytes was founded in 2020 amid the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started life as a search engine for recipes, helping people find ways to use up the limited supplies they had at home. Now, over two years on, we are a fully-fledged business. For a monthly subscription, we will put together a full meal plan to ensure you and your family are getting a healthy, balanced diet whatever your budget. Subscribe to our premium plan and we will also deliver the ingredients to your door.
 ![image](https://github.com/segunumoru1/Recipe-Site-Traffic-Prediction/assets/109175466/ca84f5e8-87a3-4b9b-a2f0-8f89a88e960a)
